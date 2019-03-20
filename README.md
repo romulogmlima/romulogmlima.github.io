@@ -1,2 +1,7 @@
-# romulogmlima.github.io
-Developer Landing Page
+# Dev Landing Page
+
+Minimal landing page for developers.
+
+## License
+
+MIT © Dinesh Pandiyan
